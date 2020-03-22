@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/am-portfolio/static/css/main.577d1756.chunk.css",
-    "main.js": "/am-portfolio/static/js/main.18547558.chunk.js",
-    "main.js.map": "/am-portfolio/static/js/main.18547558.chunk.js.map",
-    "runtime-main.js": "/am-portfolio/static/js/runtime-main.e9aa3c46.js",
-    "runtime-main.js.map": "/am-portfolio/static/js/runtime-main.e9aa3c46.js.map",
-    "static/css/2.de424728.chunk.css": "/am-portfolio/static/css/2.de424728.chunk.css",
-    "static/js/2.46dfe276.chunk.js": "/am-portfolio/static/js/2.46dfe276.chunk.js",
-    "static/js/2.46dfe276.chunk.js.map": "/am-portfolio/static/js/2.46dfe276.chunk.js.map",
-    "index.html": "/am-portfolio/index.html",
-    "precache-manifest.fca11f23732a526c2a18711c2701eaf1.js": "/am-portfolio/precache-manifest.fca11f23732a526c2a18711c2701eaf1.js",
-    "service-worker.js": "/am-portfolio/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/am-portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.577d1756.chunk.css.map": "/am-portfolio/static/css/main.577d1756.chunk.css.map",
-    "static/js/2.46dfe276.chunk.js.LICENSE.txt": "/am-portfolio/static/js/2.46dfe276.chunk.js.LICENSE.txt",
-    "static/media/earthrise.jpg": "/am-portfolio/static/media/earthrise.65e19f9b.jpg"
+    "main.css": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css",
+    "main.js": "https://antoniosmagnet.com/static/js/main.91774e9f.chunk.js",
+    "main.js.map": "https://antoniosmagnet.com/static/js/main.91774e9f.chunk.js.map",
+    "runtime-main.js": "https://antoniosmagnet.com/static/js/runtime-main.dc24a12f.js",
+    "runtime-main.js.map": "https://antoniosmagnet.com/static/js/runtime-main.dc24a12f.js.map",
+    "static/css/2.de424728.chunk.css": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css",
+    "static/js/2.779ede6d.chunk.js": "https://antoniosmagnet.com/static/js/2.779ede6d.chunk.js",
+    "static/js/2.779ede6d.chunk.js.map": "https://antoniosmagnet.com/static/js/2.779ede6d.chunk.js.map",
+    "index.html": "https://antoniosmagnet.com/index.html",
+    "precache-manifest.269441da99ed4d16d9af3cd3797eba7d.js": "https://antoniosmagnet.com/precache-manifest.269441da99ed4d16d9af3cd3797eba7d.js",
+    "service-worker.js": "https://antoniosmagnet.com/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "https://antoniosmagnet.com/static/css/2.de424728.chunk.css.map",
+    "static/css/main.577d1756.chunk.css.map": "https://antoniosmagnet.com/static/css/main.577d1756.chunk.css.map",
+    "static/js/2.779ede6d.chunk.js.LICENSE.txt": "https://antoniosmagnet.com/static/js/2.779ede6d.chunk.js.LICENSE.txt",
+    "static/media/earthrise.jpg": "https://antoniosmagnet.com/static/media/earthrise.65e19f9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9aa3c46.js",
+    "static/js/runtime-main.dc24a12f.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.46dfe276.chunk.js",
+    "static/js/2.779ede6d.chunk.js",
     "static/css/main.577d1756.chunk.css",
-    "static/js/main.18547558.chunk.js"
+    "static/js/main.91774e9f.chunk.js"
   ]
 }
