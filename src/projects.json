@@ -1,0 +1,120 @@
+[
+	{
+		"id": 1,
+		"name": "Client Registration App",
+		"description": "CRUD fundamentals project was converted from Angular 5.0 to 8.3; it is mobile responsive and FireStore Cloud deployed.",
+		"modalDesc": "Full featured Angular 8.3 CRUD app with ngxFlash Message Services. Has client email validation, mobile responsive and FireStore deployed.",
+		"tech": ["angular", "angular-router", "bootstrap", "css", "html5"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Angular-Client.png",
+		"deployedURL": "https://clientpanel-b8e2d.web.app/",
+		"codebase": "https://github.com/doctoron/clientpanel"
+	},
+	{
+		"id": 2,
+		"name": "VacTrack",
+		"description": "Do you know if you're up to date with your vaccinations? This React app tracks personal vaccination records to an individual user.",
+		"modalDesc": "Technologies: React, mongodb, mongoose, heroku, html, css and basic JavaScript.  Role: Project Manager.  This is an iterative development project.",
+		"tech": [
+			"react",
+			"hooks",
+			"express",
+			"mongodb",
+			"mongoose",
+			"heroku",
+			"html",
+			"css",
+			"javascript"
+		],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/VacTrack.png",
+		"deployedURL": "https://vactrack.org/",
+		"codebase": "https://github.com/doctoron/vactrac"
+	},
+	{
+		"id": 3,
+		"name": "Burger Mobile First",
+		"description": "This application uses React Hooks, Redux to manage burger orders, secure and validate customer data from a mobile device to Firebase endpoint.",
+		"modalDesc": "TThis application uses React Hooks, Redux to manage burger orders, secure and validate customer data from a mobile device to Firebase endpoint..",
+		"tech": ["react", "react-router", "redux", "css", "html5", "hooks"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Burger-Mobile-First.png",
+		"deployedURL": "https://react-build-a-burger-9884a.firebaseapp.com",
+		"codebase": "https://github.com/doctoron/new-burger"
+	},
+	{
+		"id": 4,
+		"name": "Memory Game",
+		"description": "You must have a good memory current events and history to win this Memory Game! This app demonstrates basic logic and state management using React.",
+		"modalDesc": "Utilizing react, JavaScript, html5, css to randomize array of images in state to create a challenging memory exercise.",
+		"tech": ["react", "javascript", "html5", "css"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Memory-Game.png",
+		"deployedURL": "https://doctoron.github.io/Clicky-Game/",
+		"codebase": "https://github.com/doctoron/Clicky-Game"
+	},
+	{
+		"id": 5,
+		"name": "Mango Store",
+		"description": "This is an 'Amazon-esque' REST-API app using node express backend and ejs templating language, bcrypt hash encryption and token protected routes for shopping cart utilizing a Stripe test account. ",
+		"modalDesc": "MVC Framework Technologies: MongoDb, Mongoose, Expresss, Ejs, Stripe, ES6 JS, CSS",
+		"tech": [
+			"mongodb",
+			"html5",
+			"javascript",
+			"express",
+			"css",
+			"heroku",
+			"aws"
+		],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Mango-Store.png",
+		"deployedURL": "https://mvc-rest-api-mango-store.herokuapp.com/",
+		"codebase": "https://github.com/doctoron/my-portfolio/blob/master/README.md"
+	},
+	{
+		"id": 6,
+		"name": "AI Island Resorts",
+		"description": " React.js hotel reservation application as BYOFE model utilizes Contentful, API and Netlify deployed.",
+		"modalDesc": "This code-a-long project explores the features of React Hooks in order to create a 'build your own front end' framework and CSS for uniform design.",
+		"tech": ["react", "css", "javascript", "contentful", "netlify"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/AI-Island-Resorts.png",
+		"deployedURL": "https://heuristic-varahamihira-87c3a9.netlify.com",
+		"codebase": "https://github.com/doctoron/ai-resort"
+	},
+	{
+		"id": 7,
+		"name": "Drink & Dine",
+		"description": "This javascript app will transform random ingredients into amazing recipes for food and drinks. Minimalist, mobile-first design for easy grocery shopping.",
+		"modalDesc": "Primarily managed project. Utilized JQuery, Ajax calls for drink API.  ",
+		"tech": ["firebase", "html5", "javascript", "css"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Drink-Dine.png",
+		"deployedURL": "https://doctoron.github.io/Drink-and-Dine-Mobile-App/",
+		"codebase": "https://github.com/doctoron/Drink-and-Dine-Mobile-App/"
+	},
+	{
+		"id": 8,
+		"name": "CPR Trivia Game ",
+		"description": "JavaScript game app designed as a fun pre-test for anyone considering taking an AHA or Red Cross CPR course. Additional, serious, questions would be used for health care practicioners. ",
+		"modalDesc": "Technologies: HTML5, JavaScript, css, bootstrap",
+		"tech": ["html", "javascript", "css", "bootstrap"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/CPR-Game.png",
+		"deployedURL": "https://doctoron.github.io/TriviaGame",
+		"codebase": "https://github.com/doctoron/TriviaGame"
+	},
+	{
+		"id": 9,
+		"name": "Train Times",
+		"description": "Using a Firebase backend, Train Times JavaScript app uses Moment.js to schedule and keep track of train arrival times.",
+		"modalDesc": "Technologies: HTML5, JavaScript, css, bootstrap, moment, firebase",
+		"tech": ["firebase", "javascript", "bootstrap", "html", "css"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Train-Scheduler.png",
+		"deployedURL": "https://doctoron.github.io/Train-Scheduler-Basic-/",
+		"codebase": "https://github.com/doctoron/Train-Scheduler-Basic-"
+	},
+	{
+		"id": 10,
+		"name": "LIRI",
+		"description": "Similar to Apple's 'SIRI', this CLI uses a Language Interpretation and Recognition Interface (LIRI) that will search 'Spotify', for songs, 'Bands in Town', for concerts and 'OMDB' for movies. See the README.md for detailed setup and use instructions.",
+		"modalDesc": "Technologies: NodeJS, Express; Inquirer, moment, axios, node-spotify-api",
+		"tech": ["node", "express"],
+		"image": "https://iportfolio.s3.us-east-2.amazonaws.com/Liri-Node-CLI.png",
+		"deployedURL": "https://github.com/doctoron/LIRI/",
+		"codebase": "https://github.com/doctoron/LIRI/"
+	}
+]

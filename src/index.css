@@ -1,13 +1,76 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+  padding-bottom: 128px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* Black transparency layer */
+
+#trueRoot .App .Home {
+  background: rbga(0, 0, 0, 0.5);
+}
+
+.jumbotron {
+  margin-bottom: 4px;
+  padding: 4px;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.bg-light {
+  background: radial-gradient(circle, #007bff 0%, #f8f9fa 100%);
+  opacity: 0.8;
+}
+
+.tagline-container {
+  width: 150px;
+}
+
+.about-area {
+  background: #011313;
+}
+
+.hover-uppercase:hover {
+  text-transform: uppercase;
+  color: #007bff;
+}
+
+.hover-transform:hover {
+  color: #90ee90;
+  text-transform: bold;
+  font-size: 1.5rem;
+}
+
+.image-card {
+  background: linear-gradient(rgba(10, 45, 58, 0.9), rgb(0, 0, 0, 0.9));
+}
+
+.image-card:hover {
+  background: linear-gradient(#00000099, #2792f7e6);
+  transform: scale(1.1);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 64px;
+  width: 100%;
+  margin: 0 auto;
+  background: #000000;
+  color: #ffffff;
+  padding: 1rem 2rem;
+}
+
+h5, h6 {
+  color: #011313;
 }
