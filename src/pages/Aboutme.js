@@ -55,7 +55,7 @@ class AboutMe extends Component {
             <CardTitle><h3 style={{ color: '#f1f1f1' }}>About Ron</h3></CardTitle>
           </CardBody>
           <CardBody>
-            <CardText inverse className="text" style={this.styles.aboutArea}>
+            <CardText className="text" style={this.styles.aboutArea}>
               Ronald K. Antonio is the founder of Antonio's Magnet, a Full-Stack Web
               Developer and Contract Consultant who draws from diverse experiences.  As
               an IT professional and former Registered Respiratory Therapist, he is
@@ -67,7 +67,7 @@ class AboutMe extends Component {
           </CardBody>
 
           <CardBody>
-            <CardText inverse className="text" style={this.styles.aboutArea}>
+            <CardText className="text" style={this.styles.aboutArea}>
               As graduate of the UCF Full-Stack Development Program, Ron's expertise
               covers tools and technologies from ES6 JavaScript, CSS, HTML, React.js,
               Bootstrap, backend Node, Express, MongoDB, MySQL and can adapt to create
@@ -76,7 +76,7 @@ class AboutMe extends Component {
           </CardBody>
 
           <CardBody >
-            <CardText inverse className="text" style={this.styles.aboutArea}>
+            <CardText className="text" style={this.styles.aboutArea}>
               Ron is a professional and interacts comfortably with diverse groups, stakeholders,
               subject matter experts as well as the 'techno-shy'.  He is committed and take ownership
               for the success through the phases of the SDLC in an Agile work environment.

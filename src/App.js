@@ -9,21 +9,22 @@ import Nav from './components/Nav';
 import Resume from './pages/Resume';
 import Footer from './components/Footer';
 import Images from './components/Images';
-// import TechModal from './components/TechModal';
+require('dotenv').config();
 
+const path = process.env.PUBLIC_URL
 class App extends Component {
   render () {
     return (
-      <Router basename="/">
+      <Router basename={path}>
         <div className="App">
           <Nav />
           <Switch>
-            <Route exact path="/" component={Portfolio} />
-            <Route path="/my-portfolio" component={Portfolio} />
-            <Route path="/contact" component={Contact} />
-            <Route path="/my-resume" component={Resume} />
-            <Route path="/about" component={About} />
-            <Route path="/images" component={Images} />
+            <Route exact path={path + "/"} component={Portfolio} />
+            <Route path={path + "/my-portfolio"} component={Portfolio} />
+            <Route path={path + "/contact"} component={Contact} />
+            <Route path={path + "/my-resume"} component={Resume} />
+            <Route path={path + "/about"} component={About} />
+            <Route path={path + "/images"} component={Images} />
             <Route component={Error} />
           </Switch>
           <Footer />
