@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://antoniosmagnet.com/precache-manifest.39fca365d630f8a04031a646e312be9e.js"
+  "https://antoniosmagnet.com/precache-manifest.33c64a07b1c0d9852988dc43e9067ba8.js"
 );
 
 self.addEventListener('message', (event) => {
